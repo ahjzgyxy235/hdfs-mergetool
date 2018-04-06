@@ -1,4 +1,4 @@
-package com.netease.mergetool
+package com.soso.mergetool
 
 import java.util
 import java.util.concurrent.{LinkedBlockingQueue, ThreadPoolExecutor, TimeUnit}

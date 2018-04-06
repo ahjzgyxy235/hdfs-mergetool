@@ -1,4 +1,4 @@
-package com.netease.mergetool
+package com.soso.mergetool
 
 import org.apache.hadoop.fs.{FileStatus, FileSystem, Path}
 import org.slf4j.Logger

@@ -1,4 +1,4 @@
-package com.netease.mergetool
+package com.soso.mergetool
 
 import java.nio.charset.StandardCharsets
 
