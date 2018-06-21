@@ -19,7 +19,7 @@ abstract class TaskContext(val fileMerger: FileMerger, val fileSystem: FileSyste
    */
   def getTask(): Runnable =  new Runnable {
       
-    val alertPOPList = "hzchenlei1@corp.netease.com,hzhuyifan@corp.netease.com" 
+    val alertPOPList = "" 
       
     // 合并任务分为3个步骤
     // step 1: 读取imput目录下的小文件，合并成大文件并输出到tmp目录。 如果在这一步任务失败，可以直接重启任务，不会产生数据异常
